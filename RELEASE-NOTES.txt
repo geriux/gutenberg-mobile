@@ -2,6 +2,7 @@
 ------
 * Add rich text styling to video captions
 * Prevent keyboard dismissal when switching between caption and text block on Android
+* Tapping on empty editor area now always inserts new block at end of post
 
 1.11.0
 ------
